@@ -96,7 +96,7 @@
     "sass": "^1.26.3",
     "sass-loader": "^9.0.2",
     "search-with-your-keyboard": "1.1.0",
-    "semver": "^5.7.1",
+    "semver": "^5.7.2",
     "slash": "^3.0.0",
     "strip-html-comments": "^1.0.0",
     "style-loader": "^1.2.1",
